@@ -76,7 +76,7 @@ struct FollowupCallDialerDecorator: DialerInterface {
         dialer.contactAction()
         
         print("----------Followup Call-------------")
-        print("Follow-up Dialin Action completed")
+        print("Followup Dialing Action completed")
 
     }
 }
